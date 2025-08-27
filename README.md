@@ -1,12 +1,11 @@
 ## Hi there 👋
 
-**소통하며 문제를 해결하는 백엔드 개발자**입니다.  
+**소통하며 문제를 해결하는 백엔드 개발자, 김하은**입니다.  
 Java, Spring, MyBatis, AWS 등을 활용해 웹 애플리케이션을 개발하고 있습니다.  
 
 ## 🔗 Portfolio
-- 📑 [포트폴리오 PPT](구글드라이브 링크)
-- 📂 [Notion Portfolio](노션 링크)
-- 🐙 [대표 프로젝트 - 배추마켓](https://github.com/ZZINOBAK/cabbage-market)
+- 📑 [포트폴리오 PPT](https://drive.google.com/file/d/1LYrIsMHjS8oNePXbegOuu5yoc0hVoRo9/view?usp=sharing)
+- 📂 [Notion Portfolio](https://meteor-lychee-b9d.notion.site/24f702d886808091b825d1c1e26fcec5?source=copy_link)
 
 ## ⚡ Tech Stack
 Java · Spring Boot · MyBatis · Oracle/MySQL · AWS(EC2, RDS, S3)

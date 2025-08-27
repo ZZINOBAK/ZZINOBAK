@@ -12,7 +12,6 @@ Java · Spring Boot · MyBatis · Oracle/MySQL · AWS(EC2, RDS, S3)
 
 ## 📫 Contact
 - Email: kimha0094@naver.com
-- GitHub: [ZZINOBAK](https://github.com/ZZINOBAK)
   
 <!--
 **ZZINOBAK/ZZINOBAK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

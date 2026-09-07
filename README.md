@@ -11,12 +11,6 @@ Java, Spring 기반 웹 애플리케이션을 개발하며
 
 ---
 
-## 🔗 Portfolio
-- 📑 [PPT](https://drive.google.com/file/d/1avv_h2znighq5lFuBJ2TGnc7M38pmqiO/view?usp=drive_link)
-- 📂 [Notion](https://meteor-lychee-b9d.notion.site/24f702d886808091b825d1c1e26fcec5?source=copy_link)
-
----
-
 ## 🚀 Featured Projects
 
 - 🥐 [Lois Management](https://github.com/ZZINOBAK/lois-management)
@@ -24,6 +18,12 @@ Java, Spring 기반 웹 애플리케이션을 개발하며
 
 - 🛒 [Cabbage-Market](https://github.com/ZZINOBAK/cabbage-market)
   : SSE 기반 실시간 알림 시스템 구현
+
+---
+
+## 🔗 Portfolio
+- 📑 [PPT](https://drive.google.com/file/d/1avv_h2znighq5lFuBJ2TGnc7M38pmqiO/view?usp=drive_link)
+- 📂 [Notion](https://meteor-lychee-b9d.notion.site/24f702d886808091b825d1c1e26fcec5?source=copy_link)
 
 ---
 

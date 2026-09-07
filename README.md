@@ -14,10 +14,10 @@ Java, Spring 기반 웹 애플리케이션을 개발하며
 ## 🚀 Featured Projects
 
 - 🥐 [Lois Management](https://github.com/ZZINOBAK/lois-management)
-  : 운영 문제를 데이터 구조 개선으로 해결한 재고 관리 시스템
+  : 카페 운영 효율화와 안정적인 케이크 예약 처리를 위한 통합 관리 시스템
 
 - 🛒 [Cabbage-Market](https://github.com/ZZINOBAK/cabbage-market)
-  : SSE 기반 실시간 알림 시스템 구현
+  : 상품 등록, 거래 및 실시간 알림 기능을 제공하는 중고거래 웹 서비스
 
 ---
 
